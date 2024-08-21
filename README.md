@@ -19,6 +19,8 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=bMkmDxPRZAld&format=png" title="Grafana" alt="Grafana" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEuCqMbUet3u2M3ymoNaB3ApXWawtS_zIfEbAkGUDxr99H6X5icSUmlLllGtqdb9x4vA&usqp=CAU" title="Snowflake" alt="Snowflake" width="40" height="40" style="max-width: 100%;"></a>
+&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://www.alteryx.com/wp-content/uploads/alteryx-logo.svg" title="Alteryx" alt="Alteryx" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a>
@@ -28,7 +30,5 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" style="max-width: 100%;"></a>
-&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEuCqMbUet3u2M3ymoNaB3ApXWawtS_zIfEbAkGUDxr99H6X5icSUmlLllGtqdb9x4vA&usqp=CAU" title="Snowflake" alt="Snowflake" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" style="max-width: 100%;"></a>
