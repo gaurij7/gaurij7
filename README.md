@@ -4,6 +4,6 @@ Hi! I am a Business Intelligence Analyst, Data Engineer and ML Researcher skille
 
 My career across diverse industries — Healthcare, Payment Processing, E-Learning, and Marketing — has honed my expertise across the data and analysis lifecycle.
 
-Currently working as a Business Intelligence Analyst Intern at OmniPayments, I'm deepening my knowledge in vital areas like business intelligence, data engineering, data mining, database management and software development.
+Currently working as a Business Intelligence Analyst Intern at OmniPayments, I'm deepening my knowledge in vital areas in business intelligence, data engineering, data mining, database management and software development.
 
 I aim to contribute to innovative data engineering methodologies and scalable frameworks, shaping a dynamic future for businesses. I'm eager to collaborate on projects and explore internship and full time opportunities.
