@@ -17,7 +17,8 @@ My career across diverse industries — Healthcare, Payment Processing, E-Learni
 Currently working as a Business Intelligence Analyst Intern at OmniPayments, I'm deepening my knowledge in vital areas in business intelligence, data engineering, data mining, database management and software development.
 
 I aim to contribute to innovative data engineering methodologies and scalable frameworks, shaping a dynamic future for businesses. I'm eager to collaborate on projects and explore internship and full time opportunities.
-<br>
+
+&nbsp;
 
 ## Languages and Tools
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;"></a>
@@ -47,7 +48,8 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=117561&format=png" title="Advanced Excel" alt="Advanced Excel" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="45" height="45" style="max-width: 100%;"></a>
-<br>
+
+&nbsp;
 
 ## How to Reach Me
 
