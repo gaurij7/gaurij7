@@ -47,6 +47,6 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 
 
-## How To Reach Me
+## How to Reach Me
 
 <p dir="auto">I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via <a href="https://www.linkedin.com/in/gauripjadhav/" rel="nofollow"> LinkedIn </a></p>
