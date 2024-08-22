@@ -19,7 +19,6 @@ Currently working as a Business Intelligence Analyst Intern at OmniPayments, I'm
 I aim to contribute to innovative data engineering methodologies and scalable frameworks, shaping a dynamic future for businesses. I'm eager to collaborate on projects and explore internship and full time opportunities.
 
 &nbsp;
-
 ## Languages and Tools
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
@@ -50,7 +49,6 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="45" height="45" style="max-width: 100%;"></a>
 
 &nbsp;
-
 ## How to Reach Me
 
 <p dir="auto">I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via <a href="https://www.linkedin.com/in/gauripjadhav/" rel="nofollow"> LinkedIn </a></p>
