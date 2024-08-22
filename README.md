@@ -26,7 +26,7 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xoHYJNVM8e47kpX8_8QFyflzCKHPevC3J5gxbhc2LlImGbv9N5Y7qHDkcJZh9oGJR1Y&usqp=CAU" title="Alteryx" alt="Alteryx" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://i.pinimg.com/736x/73/96/b8/7396b8543078228985df506d122df2e7.jpg" title="SAS" alt="SAS" width="50" height="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://i.pinimg.com/736x/73/96/b8/7396b8543078228985df506d122df2e7.jpg" title="SAS" alt="SAS" width="40" height="50" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
