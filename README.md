@@ -42,6 +42,8 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://img.icons8.com/?size=96&id=17842&format=png" title="Linux" alt="Linux" width="40" height="40" style="max-width: 100%;"></a>
+&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="45" height="45" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=fcKpGwAbxxfP&format=png" title="Google Analytics" alt="Google Analytics" width="40" height="40" style="max-width: 100%;"></a>
