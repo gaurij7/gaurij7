@@ -38,11 +38,11 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=117561&format=png" title="Advanced Excel" alt="Advanced Excel" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50" style="max-width: 100%;"></a>
 
 &nbsp;
 
 
 ## How To Reach Me
 
-<p dir="auto">I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via <a href="https://www.linkedin.com/in/gauripjadhav/" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjsW44XrVwBNBw-ycPKUlrThPlrhFErlBtw&s" width="30" height="30" style="max-width: 100%; alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-RevatiPawar-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<p dir="auto">I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via <a href="https://www.linkedin.com/in/gauripjadhav/" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjsW44XrVwBNBw-ycPKUlrThPlrhFErlBtw&s" width="30" height="70" style="max-width: 100%; alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-RevatiPawar-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
