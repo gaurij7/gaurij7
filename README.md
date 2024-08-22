@@ -21,7 +21,7 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEuCqMbUet3u2M3ymoNaB3ApXWawtS_zIfEbAkGUDxr99H6X5icSUmlLllGtqdb9x4vA&usqp=CAU" title="Snowflake" alt="Snowflake" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://www.alteryx.com/wp-content/uploads/alteryx-logo.svg" title="Alteryx" alt="Alteryx" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xoHYJNVM8e47kpX8_8QFyflzCKHPevC3J5gxbhc2LlImGbv9N5Y7qHDkcJZh9oGJR1Y&usqp=CAU" title="Alteryx" alt="Alteryx" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://i.pinimg.com/736x/73/96/b8/7396b8543078228985df506d122df2e7.jpg" title="SAS" alt="SAS" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
