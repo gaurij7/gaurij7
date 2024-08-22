@@ -18,7 +18,7 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 ## Languages and Tools
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" title="MySQL" alt="MySQL" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=9Kvi1p1F0tUo&format=png" title="Tableau" alt="Tabeau" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
