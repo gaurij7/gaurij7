@@ -17,9 +17,7 @@ My career across diverse industries — Healthcare, Payment Processing, E-Learni
 Currently working as a Business Intelligence Analyst Intern at OmniPayments, I'm deepening my knowledge in vital areas in business intelligence, data engineering, data mining, database management and software development.
 
 I aim to contribute to innovative data engineering methodologies and scalable frameworks, shaping a dynamic future for businesses. I'm eager to collaborate on projects and explore internship and full time opportunities.
-
 <br>
-
 
 ## Languages and Tools
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;"></a>
