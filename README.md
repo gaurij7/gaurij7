@@ -45,4 +45,4 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 
 ## How To Reach Me
 
-<p dir="auto">I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via <a href="https://www.linkedin.com/in/gauripjadhav/" rel="nofollow"><img src="" width="20" height="20" style="max-width: 100%; alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-RevatiPawar-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<p dir="auto">I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via <a href="https://www.linkedin.com/in/gauripjadhav/" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjsW44XrVwBNBw-ycPKUlrThPlrhFErlBtw&s" width="30" height="30" style="max-width: 100%; alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-RevatiPawar-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
