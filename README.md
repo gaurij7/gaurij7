@@ -38,4 +38,6 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" style="max-width: 100%;"></a>
 
 
+## How To Reach Me
+
 <p dir="auto">I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via <a href="https://www.linkedin.com/in/revatipawar29/](https://www.linkedin.com/in/gauripjadhav/" rel="nofollow"><img src="https://camo.githubusercontent.com/f1d502f0c41a7ae13cbe37e34219e4c74f5be24f92a00cf58cc523f19f64ab7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52657661746950617761722d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-RevatiPawar-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
