@@ -8,7 +8,7 @@
 <img src="https://camo.githubusercontent.com/7c2145551dc29c09205720b1acea43652035cc0f1eb46278acc400f1c1fc59a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 
-## hi. <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+## hi. <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27" height="25" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 Hi! I am a Business Intelligence Analyst, Data Engineer and ML Researcher skilled in Data Analysis, Big Data, Data Engineering, Software Development and Machine Learning,
 
