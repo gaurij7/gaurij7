@@ -28,7 +28,7 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=qYfwpsRXEcpc&format=png" title="Power BI" alt="Power BI" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://icons8.com/icon/OU2ddOKw840K/microsoft-power-apps" title="Power Apps" alt="Power Apps" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://icons8.com/icon/OU2ddOKw840K/microsoft-power-apps"><img src="https://icons8.com/icon/OU2ddOKw840K/microsoft-power-apps" title="Power Apps" alt="Power Apps" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=bMkmDxPRZAld&format=png" title="Grafana" alt="Grafana" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
