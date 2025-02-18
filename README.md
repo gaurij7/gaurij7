@@ -28,6 +28,8 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=qYfwpsRXEcpc&format=png" title="Power BI" alt="Power BI" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=qYfwpsRXEcpc&format=png](https://img.icons8.com/?size=96&id=OU2ddOKw840K&format=png" title="Power BI" alt="Power BI" width="40" height="40" style="max-width: 100%;"></a>
+&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=bMkmDxPRZAld&format=png" title="Grafana" alt="Grafana" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEuCqMbUet3u2M3ymoNaB3ApXWawtS_zIfEbAkGUDxr99H6X5icSUmlLllGtqdb9x4vA&usqp=CAU" title="Snowflake" alt="Snowflake" width="40" height="40" style="max-width: 100%;"></a>
