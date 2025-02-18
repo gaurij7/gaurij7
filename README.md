@@ -52,6 +52,8 @@ I aim to contribute to innovative data engineering methodologies and scalable fr
 &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=22813&format=png" title="Docker" alt="Docker" width="40" height="45" style="max-width: 100%;"></a>
 &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=117558&format=png" title="Advanced Excel" alt="Advanced Excel" width="40" height="40" style="max-width: 100%;"></a>
+&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://img.icons8.com/?size=96&id=117561&format=png" title="Advanced Excel" alt="Advanced Excel" width="40" height="40" style="max-width: 100%;"></a>
 &nbsp;
 
